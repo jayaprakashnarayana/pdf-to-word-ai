@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pdf
+*.docx
+*.txt
+marker_output/
+marker_global_output/
+.DS_Store
+uploads/
